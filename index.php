@@ -5,7 +5,7 @@
         <title>Nosbod.Net</title>
         <meta name="description" content="Ian Dobson | Web Developer">
         <link rel="shortcut icon" href="/images/Anlogo.gif">
-        <link href="/css/base.css">
+        <link rel="stylesheet" href="/css/base.css">
     </head>
     <body>
         <div id="wrapper">
