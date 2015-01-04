@@ -5,16 +5,7 @@
         <title>Nosbod.Net</title>
         <meta name="description" content="Ian Dobson | Web Developer">
         <link rel="shortcut icon" href="/images/Anlogo.gif">
-        <style type="text/css">
-            html{height:100%;margin:0px;padding:0px;}
-            body{font-size:14px;font-family:Verdana, Geneva, sans-serif;color:#666;height:100%;margin:0px;padding:0px;background-color:#FFF;}
-            #wrapper{display:table;width:100%;height:100%;margin:auto;}
-            #cell{display:table-cell; vertical-align:middle;}
-            #content{margin:0px auto;0px;text-align:center;}
-            hr{border-top:1px solid #FF0000;text-align:center; width:100%}
-            p{font-size:10px;margin-top:0px;}
-            a{padding-right:20px;}
-        </style>
+        <link href="/css/base.css">
     </head>
     <body>
         <div id="wrapper">
