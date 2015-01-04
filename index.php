@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Nosbod.Net</title>
-        <meta name="description" content="nosbod, Ian Dobson, Dobson, MLA, Media Lab Arts, web designer, web, Dereham">
+        <meta name="description" content="Ian Dobson | Web Developer">
         <link rel="shortcut icon" href="/images/Anlogo.gif">
         <style type="text/css">
             html{height:100%;margin:0px;padding:0px;}
@@ -11,7 +11,7 @@
             #wrapper{display:table;width:100%;height:100%;margin:auto;}
             #cell{display:table-cell; vertical-align:middle;}
             #content{margin:0px auto;0px;text-align:center;}
-            hr{color:#FF0000;text-align:center; width:100%}
+            hr{border-top:1px solid #FF0000;text-align:center; width:100%}
             p{font-size:10px;margin-top:0px;}
             a{padding-right:20px;}
         </style>
