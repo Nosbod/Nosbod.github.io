@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <title>Nosbod.Net</title>
         <meta name="description" content="Nosbod.net&trade;">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
         <link rel="shortcut icon" href="/images/Anlogo.gif">
         <link rel="stylesheet" href="/css/base.css">
     </head>
