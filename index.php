@@ -15,8 +15,6 @@
         <h1>nosbod.net</h1>
         <img src="images/animated-logo.gif">
     </div>
-    <hr>
-    <p><a href="http://www.zestcarrental.com">zestcarrental.com</a> <a href="http://www.emberfilms.co.uk">emberfilms.co.uk</a></p>
 </div>
 </body>
 </html>
