@@ -6,19 +6,20 @@ html {
 body {
     background-color: #FFF;
     color: #000;
-    height: 100%;
-    margin: 0;
-    padding: 0;
     display: grid;
     grid-template-columns: 100fr 1fr 52px 100fr;
     grid-template-rows: 1fr;
+    height: 100%;
+    margin: 0;
+    padding: 0;
     place-items: center;
 }
 
 h1 {
+    grid-column-start: 2;
     font-family: 'Audiowide', cursive;
     font-size: 4.5rem;
     font-weight: lighter;
+    line-height: 3.6rem;
     margin: 0 1rem 0 0;
-    grid-column-start: 2;
 }
