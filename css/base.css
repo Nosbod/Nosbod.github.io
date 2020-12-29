@@ -19,7 +19,6 @@ h1 {
     font-family: 'Audiowide', cursive;
     font-size: 4.5rem;
     font-weight: lighter;
-    line-height: 0.88em;
-    margin: 0 0.5rem 0 0;
+    margin: 0 1rem 0 0;
     grid-column-start: 2;
 }
